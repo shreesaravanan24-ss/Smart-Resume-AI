@@ -1,0 +1,45 @@
+# IntelliJ IDEA
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Java
+
+*.class
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+
+spring-boot-devtools.properties
+
+# Environment / secrets
+
+.env
+.env.*
+application-local.properties
+application-secret.properties
+
+# IDE
+
+.vscode/
+
+# Temporary files
+
+*.tmp
+*.swp
+*.swo
